@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1400"
+   LastUpgradeVersion = "1430"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
-               BuildableName = "SwiftRadio.app"
-               BlueprintName = "SwiftRadio"
-               ReferencedContainer = "container:SwiftRadio.xcodeproj">
+               BuildableName = "IkonikRadio.app"
+               BlueprintName = "IkonikRadio"
+               ReferencedContainer = "container:IkonikRadio.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
-            BuildableName = "SwiftRadio.app"
-            BlueprintName = "SwiftRadio"
-            ReferencedContainer = "container:SwiftRadio.xcodeproj">
+            BuildableName = "IkonikRadio.app"
+            BlueprintName = "IkonikRadio"
+            ReferencedContainer = "container:IkonikRadio.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -42,9 +42,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2C5545B91C1124DE00728469"
-               BuildableName = "SwiftRadioUITests.xctest"
-               BlueprintName = "SwiftRadioUITests"
-               ReferencedContainer = "container:SwiftRadio.xcodeproj">
+               BuildableName = "IkonikRadioUITests.xctest"
+               BlueprintName = "IkonikRadioUITests"
+               ReferencedContainer = "container:IkonikRadio.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -64,9 +64,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
-            BuildableName = "SwiftRadio.app"
-            BlueprintName = "SwiftRadio"
-            ReferencedContainer = "container:SwiftRadio.xcodeproj">
+            BuildableName = "IkonikRadio.app"
+            BlueprintName = "IkonikRadio"
+            ReferencedContainer = "container:IkonikRadio.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -81,9 +81,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
-            BuildableName = "SwiftRadio.app"
-            BlueprintName = "SwiftRadio"
-            ReferencedContainer = "container:SwiftRadio.xcodeproj">
+            BuildableName = "IkonikRadio.app"
+            BlueprintName = "IkonikRadio"
+            ReferencedContainer = "container:IkonikRadio.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
